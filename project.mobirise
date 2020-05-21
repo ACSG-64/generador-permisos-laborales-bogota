@@ -34,6 +34,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 21,
     "versionPublish": "4.12.3"
   },
@@ -41,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Generador permisos digitales Bogotá",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
