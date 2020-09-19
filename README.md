@@ -1,6 +1,6 @@
 # Generador de permisos laborales
 
-Este proyecto originalmente fué propuesto y presentado para consideración por la Alcaldía Mayor de Bogotá D.C., y posteriormente la oferta se extiendió a todos los interesados, incluyendo empresas privadas.
+Este proyecto originalmente fue propuesto y presentado para consideración por la Alcaldía Mayor de Bogotá D.C., y posteriormente la oferta se extiendió a todos los interesados, incluyendo empresas privadas.
 
 ***
 
