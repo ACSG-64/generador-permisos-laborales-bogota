@@ -15,7 +15,7 @@ GitHub Pages - https://acsg-64.github.io/generador-permisos-laborales-bogota/ind
 
 ## Tecnologías empleadas:
 * Python - Django Framework.
-* PostgreSQL DB.
+* PostgrSQL DB.
 * HTML, CSS y JavaScript.
 
 ***
